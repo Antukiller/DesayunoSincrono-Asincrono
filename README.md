@@ -107,3 +107,8 @@ Ahora bien, este ejemplo también muestra el límite de complicarse: el mejor pa
 ## 🎯 Conclusión
 
 "Ninguna solución cumple el límite de 500 ms". El paralelismo ofrece la mayor mejora y el timeout aporta la seguridad de no esperar para siempre, pero el **mínimo teórico está limitado por el camino crítico** (sartén + huevos = 500 ms), por lo que el desayuno siempre se queda al borde del café frío.
+
+
+### 📄 Enlaces de Interés y Documentación
+
+* 🔗 **Repositorio en GitHub:** [DesayunoSincrono-Asincrono](https://github.com/Antukiller/DesayunoSincrono-Asincrono)
